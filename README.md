@@ -8,13 +8,13 @@ I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 20
 - **Other Tools**: Git, Docker, Figma
 
 ## 🚀 Featured Projects
-### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
-A fitness app for tracking your workouts.
-![HiroFit Demo](./hiroFitImages/cameraView1.png)
-
 ### [Dinder](https://github.com/PaulKratsios18/Dinder)  
 A group decision-making app for choosing restaurants.
 ![Dinder Screenshot](./dinderImages/MatchScreen.png)
+
+### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
+A fitness app for tracking your workouts.
+![HiroFit Demo](./hiroFitImages/cameraView1.png)
 
 ## 📈 GitHub Stats
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulKratsios18&show_icons=true&theme=radical)
