@@ -10,7 +10,7 @@ I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 20
 ## 🚀 Featured Projects
 ### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
 A fitness app for tracking your workouts.
-![HiroFit Demo](./images/cameraView1.png)
+![HiroFit Demo](./hiroFitImages/cameraView1.png)
 
 ### [Dinder](https://github.com/PaulKratsios18/Dinder)  
 A group decision-making app for choosing restaurants.
