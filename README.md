@@ -14,7 +14,7 @@ A fitness app for tracking your workouts.
 
 ### [Dinder](https://github.com/PaulKratsios18/Dinder)  
 A group decision-making app for choosing restaurants.
-![Dinder Screenshot](./dinderImages/Match\Screen.png)
+![Dinder Screenshot](./dinderImages/MatchScreen.png)
 
 ## 📈 GitHub Stats
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulKratsios18&show_icons=true&theme=radical)
