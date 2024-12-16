@@ -16,9 +16,6 @@ A group decision-making app for choosing restaurants.
 A fitness app for tracking your workouts.
 ![HiroFit Demo](./hiroFitImages/cameraView1.png)
 
-## 📈 GitHub Stats
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulKratsios18&show_icons=true&theme=radical)
-
 ## 📫 Let's Connect
 - **LinkedIn**: [Paul Kratsios](https://www.linkedin.com/in/paulkratsios)
 - **Portfolio Website**: [paulkratsios.dev](https://paulkratsios.dev)
