@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Paul Kratsios!  
+I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 2024 with a Dual Bachelor's in Computer Science and Cognitive Science, plus a Minor in Finance.
 
-<!--
-**PaulKratsios18/PaulKratsios18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, C++, Java
+- **Frameworks**: React, Node.js, Express, Flask
+- **Databases**: MongoDB, MySQL
+- **Other Tools**: Git, Docker, Figma
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
+A fitness app for tracking your workouts.
+![HiroFit Demo](./images/hirofit-demo.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Dinder](https://github.com/PaulKratsios18/Dinder)  
+A group decision-making app for choosing restaurants.
+![Dinder Screenshot](./images/dinder-screenshot.png)
+
+## 📈 GitHub Stats
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulKratsios18&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- **LinkedIn**: [Paul Kratsios](https://www.linkedin.com/in/paulkratsios)
+- **Portfolio Website**: [paulkratsios.dev](https://paulkratsios.dev)
