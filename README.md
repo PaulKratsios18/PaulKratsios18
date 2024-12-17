@@ -5,7 +5,7 @@
 # Welcome!
 I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 2024 with a Dual Bachelor's in Computer Science and Cognitive Science, plus a Minor in Finance.
 ## 📫 Let's Connect
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/paulkratsios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
