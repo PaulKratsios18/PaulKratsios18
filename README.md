@@ -19,23 +19,13 @@ Dinder is a web application designed to answer the question: "Where should we ea
 - **Real-Time Results**: See matches live and make decisions easily.
 
 #### Media
-<div align="center">
-  <svg width="220" height="220" style="margin: 10px;">
-    <foreignObject width="100%" height="60%">
-      <img src="./dinderImages/homepage.png" width="200" height="200" style="border-radius: 8px;" />
-    </foreignObject>
-  </svg>
-  <svg width="220" height="220" style="margin: 10px;">
-    <foreignObject width="100%" height="60%">
-      <img src="./dinderImages/RestaurantCardSwiping.png" width="200" height="200" style="border-radius: 8px;" />
-    </foreignObject>
-  </svg>
-  <svg width="220" height="220" style="margin: 10px;">
-    <foreignObject width="100%" height="60%">
-      <img src="./dinderImages/MatchScreen.png" width="200" height="200" style="border-radius: 8px;" />
-    </foreignObject>
-  </svg>
-</div>
+<table>
+  <tr>
+    <td><img src="./dinderImages/homepage.png" width="200" style="border: 2px solid #ddd; border-radius: 8px;" /></td>
+    <td><img src="./dinderImages/RestaurantCardSwiping.png" width="200" style="border: 2px solid #ddd; border-radius: 8px;" /></td>
+    <td><img src="./dinderImages/MatchScreen.png" width="200" style="border: 2px solid #ddd; border-radius: 8px;" /></td>
+  </tr>
+</table>
 
 #### What I Learned
 Building Dinder enhanced my skills in:
