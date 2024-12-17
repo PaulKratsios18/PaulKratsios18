@@ -20,9 +20,9 @@ Dinder is a web application designed to answer the question: "Where should we ea
 
 #### Media
 <div style="display: flex; justify-content: space-between;">
-  <img src="./dinderImages/homepage.png" alt="Dinder Homepage" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
-  <img src="./dinderImages/RestaurantCardSwiping.png" alt="Restaurant Swiping" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
-  <img src="./dinderImages/MatchScreen.png" alt="Match Results" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
+  <img src="./dinderImages/homepage.png" alt="Dinder Homepage" style="width: 30%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
+  <img src="./dinderImages/RestaurantCardSwiping.png" alt="Restaurant Swiping" style="width: 30%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
+  <img src="./dinderImages/MatchScreen.png" alt="Match Results" style="width: 30%; height: auto; border: 1px solid #ccc; border-radius: 4px;">
 </div>
 
 #### What I Learned
