@@ -29,15 +29,22 @@ Dinder is a web application designed to answer the question: "Where should we ea
   <img src="./dinderImages/MatchScreen.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
 </div>
 
-#### What I Learned
-Building Dinder enhanced my skills in:
-- Developing scalable, user-focused web applications.
-- Integrating third-party APIs like Google Places for restaurant data.
-- Collaborative teamwork using GitHub and Jira for project management.
-
 ### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
-A fitness app for tracking your workouts.
-![HiroFit Demo](./hiroFitImages/cameraView1.png)
+#### A Machine Learning-Based Fitness App
+HiroFit was an application that utilizes computer vision and machine learning to track your workouts and provide real-time tips for improvement. I led the iOS frontend development for HiroFit, while the models and backend were handled by other team members.
+
+#### Key Features
+- **Real-Time Tracking**: Uses computer vision to monitor your movements during workouts.
+- **Personalized Feedback**: Provides tips and suggestions based on your performance.
+- **User-Friendly Interface**: Designed for ease of use, making workout tracking seamless.
+
+#### Media
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="./hiroFitImages/homepage.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/workoutSelection.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/cameraView2.png" width="210" height="380" style="margin: 30px 10px 10px 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/results.png" width="200" height="380" style="margin: 30px 10px 10px 10px; border-radius: 8px;" />
+</div>
 
 ## 📫 Let's Connect
 - **LinkedIn**: [Paul Kratsios](https://www.linkedin.com/in/paulkratsios)
