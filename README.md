@@ -1,7 +1,3 @@
-<div align="center" style="width: 100%; padding: 0; margin: 0;">
-  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; max-width: none; height: 200px; object-fit: cover; object-position: center 50%; margin: 0; padding: 0;" />
-</div>
-
 <p align="center">
   <img src="./githubWelcomeBanner.gif" alt="Welcome Banner">
 </p>
