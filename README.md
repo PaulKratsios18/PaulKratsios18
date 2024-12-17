@@ -42,7 +42,7 @@ HiroFit was an application that utilizes computer vision and machine learning to
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <img src="./hiroFitImages/homepage.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
   <img src="./hiroFitImages/workoutSelection.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
-  <img src="./hiroFitImages/cameraView2.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
+  <img src="./hiroFitImages/cameraView2.png" width="210" height="400" style="margin: 10px; border-radius: 8px;" />
   <img src="./hiroFitImages/results.png" width="200" height="400" style="margin: 10px; border-radius: 8px;" />
 </div>
 
