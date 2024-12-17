@@ -1,10 +1,6 @@
-<table width="100%" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td align="center" style="padding: 0;">
-      <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; height: 120px; object-fit: cover; object-position: center 50%;" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="width: 100%; padding: 0; margin: 0;">
+  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 150%; max-width: none; height: 120px; object-fit: cover; object-position: center 50%; margin: 0; padding: 0;" />
+</div>
 
 # Welcome!
 I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 2024 with a Dual Bachelor's in Computer Science and Cognitive Science, plus a Minor in Finance.
