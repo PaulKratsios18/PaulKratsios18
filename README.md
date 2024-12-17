@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Paul Kratsios!  
+<div style="position: relative; text-align: center; height: 120px; overflow: hidden;">
+  <img src="./githubWelcomebanner.gif" alt="Welcome Banner" style="width: 100%; margin: 0; object-fit: cover;" />
+</div>
+
+# Welcome!
 I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 2024 with a Dual Bachelor's in Computer Science and Cognitive Science, plus a Minor in Finance.
 
 ## 🔧 Technologies & Tools
