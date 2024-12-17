@@ -2,6 +2,10 @@
   <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; max-width: none; height: 200px; object-fit: cover; object-position: center 50%; margin: 0; padding: 0;" />
 </div>
 
+<p align="center">
+  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner">
+</p>
+
 # Welcome!
 I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 2024 with a Dual Bachelor's in Computer Science and Cognitive Science, plus a Minor in Finance.
 
