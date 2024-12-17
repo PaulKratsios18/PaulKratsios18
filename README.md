@@ -20,9 +20,21 @@ Dinder is a web application designed to answer the question: "Where should we ea
 
 #### Media
 <div align="center">
-  <img src="./dinderImages/homepage.png" width="200" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" />
-  <img src="./dinderImages/RestaurantCardSwiping.png" width="200" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" /> 
-  <img src="./dinderImages/MatchScreen.png" width="200" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;" />
+  <svg width="220" height="220" style="margin: 10px;">
+    <foreignObject width="100%" height="60%">
+      <img src="./dinderImages/homepage.png" width="200" height="200" style="border-radius: 8px;" />
+    </foreignObject>
+  </svg>
+  <svg width="220" height="220" style="margin: 10px;">
+    <foreignObject width="100%" height="60%">
+      <img src="./dinderImages/RestaurantCardSwiping.png" width="200" height="200" style="border-radius: 8px;" />
+    </foreignObject>
+  </svg>
+  <svg width="220" height="220" style="margin: 10px;">
+    <foreignObject width="100%" height="60%">
+      <img src="./dinderImages/MatchScreen.png" width="200" height="200" style="border-radius: 8px;" />
+    </foreignObject>
+  </svg>
 </div>
 
 #### What I Learned
