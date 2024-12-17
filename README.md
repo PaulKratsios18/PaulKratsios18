@@ -25,7 +25,7 @@ Dinder is a web application designed to answer the question: "Where should we ea
 #### Media
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <img src="./dinderImages/homepage.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
-  <img src="./dinderImages/RestaurantCardSwiping.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
+  <img src="./dinderImages/HostLobby-Post-PreferenceSelection.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
   <img src="./dinderImages/MatchScreen.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
 </div>
 
