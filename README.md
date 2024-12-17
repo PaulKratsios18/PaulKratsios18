@@ -23,10 +23,10 @@ Dinder is a web application designed to answer the question: "Where should we ea
 - **Real-Time Results**: See matches live and make decisions easily.
 
 #### Media
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="./dinderImages/homepage.png" width="300" height="200" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
-  <img src="./dinderImages/RestaurantCardSwiping.png" width="300" height="200" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
-  <img src="./dinderImages/MatchScreen.png" width="300" height="200" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <img src="./dinderImages/homepage.png" width="200" height="150" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
+  <img src="./dinderImages/HostLobby-Post-PreferenceSelection.png" width="200" height="150" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
+  <img src="./dinderImages/MatchScreen.png" width="200" height="150" style="margin: 10px; border: 2px solid #ddd; border-radius: 8px;" />
 </div>
 
 #### What I Learned
