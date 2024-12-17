@@ -19,10 +19,12 @@ Dinder is a web application designed to answer the question: "Where should we ea
 - **Real-Time Results**: See matches live and make decisions easily.
 
 #### Media
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./dinderImages/homepage.png" alt="Dinder Homepage" style="width: 40%; height: 150px; border: 1px solid #ccc; border-radius: 4px; object-fit: cover;">
-  <img src="./dinderImages/RestaurantCardSwiping.png" alt="Restaurant Swiping" style="width: 38%; height: 150px; border: 1px solid #ccc; border-radius: 4px; object-fit: cover;">
-  <img src="./dinderImages/MatchScreen.png" alt="Match Results" style="width: 21%; height: 150px; border: 1px solid #ccc; border-radius: 4px; object-fit: cover;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="./dinderImages/homepage.png" alt="Dinder Homepage" style="width: 50%; height: 150px; border: 2px solid #ddd; border-radius: 8px; object-fit: cover; margin: 10px;">
+</div>
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="./dinderImages/RestaurantCardSwiping.png" alt="Restaurant Swiping" style="width: 45%; height: 200px; border: 2px solid #ddd; border-radius: 8px; object-fit: cover; margin: 10px;">
+  <img src="./dinderImages/MatchScreen.png" alt="Match Results" style="width: 45%; height: 200px; border: 2px solid #ddd; border-radius: 8px; object-fit: cover; margin: 10px;">
 </div>
 
 #### What I Learned
