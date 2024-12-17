@@ -19,13 +19,13 @@ Dinder is a web application designed to answer the question: "Where should we ea
 - **Real-Time Results**: See matches live and make decisions easily.
 
 ### Media
-![Dinder Homepage](./homepage.png)
+![Dinder Homepage](./dinderImages/homepage.png)
 *Dinder's homepage invites users to start or join a session.*
 
-![Restaurant Swiping](./RestaurantCardSwiping.png)
+![Restaurant Swiping](./dinderImages/RestaurantCardSwiping.png)
 *Swipe through restaurant options with detailed information.*
 
-![Match Results](./MatchScreen.png)
+![Match Results](./dinderImages/MatchScreen.png)
 *The results screen shows the top matches for the group.*
 
 ### Links
