@@ -1,5 +1,5 @@
-<div style="position: relative; text-align: center; height: 120px; overflow: hidden; width: 100vw; margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%);">
-  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; height: 80%; object-fit: cover; object-position: center 50%;" />
+<div align="center" style="width: 100%; padding: 0; margin: 0;">
+  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; max-width: none; height: 120px; object-fit: cover; object-position: center 50%; margin: 0; padding: 0;" />
 </div>
 
 # Welcome!
