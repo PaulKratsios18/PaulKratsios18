@@ -12,33 +12,24 @@ I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 20
 #### Swipe. Match. Eat.
 Dinder is a web application designed to answer the question: "Where should we eat?" It makes group restaurant decisions fun and collaborative by letting users swipe left or right on restaurant options. The app uses advanced ranking and matching algorithms to find the perfect spot for everyone.
 
-### Key Features
+#### Key Features
 - **Group Matchmaking**: Host or join sessions using a unique code to decide as a group.
 - **Preference Filtering**: Set preferences like cuisine, price range, and location.
 - **Interactive Swiping**: Swipe through restaurant options with detailed info (e.g., ratings, distance).
 - **Real-Time Results**: See matches live and make decisions easily.
 
-### Media
-![Dinder Homepage](./dinderImages/homepage.png)
-*Dinder's homepage invites users to start or join a session.*
+#### Media
+<div style="display: flex; justify-content: space-between;">
+  <img src="./homepage.png" alt="Dinder Homepage" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
+  <img src="./RestaurantCardSwiping.png" alt="Restaurant Swiping" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
+  <img src="./MatchScreen.png" alt="Match Results" style="width: 30%; border: 1px solid #ccc; border-radius: 4px;">
+</div>
 
-![Restaurant Swiping](./dinderImages/RestaurantCardSwiping.png)
-*Swipe through restaurant options with detailed information.*
-
-![Match Results](./dinderImages/MatchScreen.png)
-*The results screen shows the top matches for the group.*
-
-### Links
-- [GitHub Repository](https://github.com/sagars2004/Dinder)
-- [Jira Board](https://dinder.atlassian.net/jira/software/projects/SCRUM/list)
-
-### What I Learned
+#### What I Learned
 Building Dinder enhanced my skills in:
 - Developing scalable, user-focused web applications.
 - Integrating third-party APIs like Google Places for restaurant data.
 - Collaborative teamwork using GitHub and Jira for project management.
-
-Dinder highlights my ability to solve real-world problems with intuitive, interactive solutions.
 
 ### [HiroFit](https://github.com/PaulKratsios18/HiroFit)  
 A fitness app for tracking your workouts.
