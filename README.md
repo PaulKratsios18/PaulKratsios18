@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center; height: 120px; overflow: hidden;">
-  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; height: 75%; object-fit: cover; object-position: center 50%;" />
+  <img src="./githubWelcomeBanner.gif" alt="Welcome Banner" style="width: 100%; height: 80%; object-fit: cover; object-position: center 50%;" />
 </div>
 
 # Welcome!
