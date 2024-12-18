@@ -58,12 +58,14 @@ A research project exploring how reinforcement learning agents can adapt to unce
 - **Cognitive Modeling**: Analysis of different decision-making strategies in uncertain environments.
 - **Monty Hall Variations**: Novel adaptations of the classic probability problem.
 
+<!---
 #### Media
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <img src="./thesisImages/agentLearning.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
   <img src="./thesisImages/results.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
   <img src="./thesisImages/comparison.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
 </div>
+--->
 
 ### [Hockey Puck Tracking System](https://github.com/PaulKratsios18/HockeyPuckTrackingSystem)  
 #### A Computer Vision-Based System for Tracking Hockey Pucks
@@ -75,11 +77,13 @@ A sophisticated computer vision system designed to track hockey pucks in real-ti
 - **Training Integration**: Building an immersive training experience by combining puck and stick movement data
 - **User-Friendly Interface**: Designed for ease of use, providing clear visualization of tracking results
 
+<!---
 #### Media
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
   <img src="./hockeyPuckTrackingSystemImages/homepage.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
   <img src="./hockeyPuckTrackingSystemImages/results.png" width="250" height="150" style="margin: 10px; border: 2px solid black; border-radius: 8px;" />
 </div>
+--->
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, C/C++, JavaScript, TypeScript, SQL, Java, Swift, R
