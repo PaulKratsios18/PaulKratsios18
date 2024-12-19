@@ -17,7 +17,7 @@ I'm a senior at Rensselaer Polytechnic Institute 🎓, graduating in December 20
 ## 🚀 Featured Projects
 ### [Dinder](https://github.com/PaulKratsios18/Dinder)  
 #### Swipe. Match. Eat.
-Dinder is a web application designed to answer the question: "Where should we eat?" It makes group restaurant decisions fun and collaborative by letting users swipe left or right on restaurant options. The app uses advanced ranking and matching algorithms to find the perfect spot for everyone.
+Dinder is a web application designed to answer the question: "Where should we eat?" It uses advanced ranking and matching algorithms to find the perfect spot for everyone. Users can host or join sessions using unique codes, set preferences like cuisine and price range, and see matches in real-time.
 
 #### Key Features
 - **Group Matchmaking**: Host or join sessions using a unique code to decide as a group.
